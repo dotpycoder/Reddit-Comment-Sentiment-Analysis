@@ -17,11 +17,14 @@ This project performs sentiment analysis on comments from posts in a specified s
    ```bash
    git clone https://github.com/yourusername/sentiment-analysis-reddit.git
 
-cd sentiment-analysis-reddit
+2. Navigate to the project folder:
+   cd sentiment-analysis-reddit
 
-pip install -r requirements.txt
-
-jupyter notebook
+3. Install the required libraries:
+   pip install -r requirements.txt
+   
+5. Open and execute the Jupyter Notebook:
+   jupyter notebook
 
 Dependencies
 - praw
